@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.300b309a.js",
+    "static/js/787.fea5843d.chunk.js": "/static/js/787.fea5843d.chunk.js",
+    "static/media/Vikram.jpg": "/static/media/Vikram.c5db7bd54c962eb5a9ca.jpg",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.300b309a.js.map": "/static/js/main.300b309a.js.map",
+    "787.fea5843d.chunk.js.map": "/static/js/787.fea5843d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.300b309a.js"
+  ]
+}
