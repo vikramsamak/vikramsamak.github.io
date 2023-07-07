@@ -16,7 +16,7 @@ The website is built using the following technologies and frameworks:
 
 ## Screenshots
 
-![Main](screenshots\Vikram-Samak-Portfolio-Main.png)
+![Main]([screenshots\Vikram-Samak-Portfolio-Main.png](https://github.com/vikramsamak/vikramsamak.github.io/blob/master/screenshots/Vikram-Samak-Portfolio-Main.png))
 
 ![About Me](screenshots\Vikram-Samak-Portfolio-About-Me.png)
 
